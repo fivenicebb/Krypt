@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <h1>Welcome to My Website</h1>
+    <p> This is the AEM jawalek engine.</p>
+</head>
+
+<script>
+const base = await crypto.subtle.importKey(
+    'raw', enc.encode(password), 'PBKDF2', false, ["deriveKey"]);
+
+return crypto.subtle.deriveKey(
+    { name: 'PBKDF2', salt, iterations: 600000, hash: 'SHA-256' },
+    base, { name: 'AEM-GCM', length: 265 }, false, ['encrypt', 'decrypt']);
+
+</script>
+
+
+ '
