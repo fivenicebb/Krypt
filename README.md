@@ -82,12 +82,9 @@ https://almawakebschool-my.sharepoint.com/:w:/g/personal/omar_sandouka_amg_sch_a
 During the current development phase, Krypt's founding team is focused on:
 
 1. Developing and assembling a functional prototype.
-2. Integrating the required technical components and AI functionality.
-3. Refining the user interface and overall user experience.
-4. Preparing a professional company presentation.
-5. Demonstrating the prototype to competition judges.
-6. Establishing Krypt's identity, purpose and long-term direction.
-
+2. Adding the API's ( Will be handed to the COO )
+3. Refining the user interface and overall user experience. ( CTO )
+4. Preparing a professional company presentation.  ( Completed )
 ---
 
 **KRYPT – Founding Executive Team**
